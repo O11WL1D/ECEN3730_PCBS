@@ -1,0 +1,64 @@
+Altium Designer Pick and Place Locations
+C:\Users\dudkr\OneDrive\Desktop\brd2\Project Outputs for Board2\Pick Place for brd2.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/09/24
+Time:       15:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+"Designator","Comment","Layer","Footprint","Footprint Description","Center-X(mil)","Center-Y(mil)","Rotation","Description","ComponentKind","Height(mil)","Ref-X(mil)","Ref-Y(mil)","Pad-X(mil)","Pad-Y(mil)","Variation"
+"PS1","AMS1117-3.3","TopLayer","LDO","","1250.000","1715.079","0","LOW DROPOUT REGULATORS(LDO) POSITIVE FIXED 1.3V @ 800MA 15V 3.3V 1A SOT-223 ROHS","Standard","0.000","1250.000","1720.000","1159.000","1592.047","Fitted"
+"C3","22uF","TopLayer","1206_Passive_Capacitor","","2515.000","1775.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","Standard","0.000","2515.000","1775.000","2515.000","1716.000","Fitted"
+"U2","SN74AHC14DR","TopLayer","HEX_74AC14","","2710.000","1035.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC","Standard","0.000","2710.000","1035.000","2598.347","1185.000","Fitted"
+"TP7","R8 TP","TopLayer","TP10x_Probe","Small Probs footprint","2545.000","585.000","0","Test Point 300 mil centers","Standard","0.000","2545.000","585.000","2395.000","585.000","Fitted"
+"TP6","QHigh TP","TopLayer","TP10x_Probe","Small Probs footprint","3025.000","765.000","0","Test Point 300 mil centers","Standard","0.000","3025.000","765.000","2875.000","765.000","Fitted"
+"TP5","!555 TP","TopLayer","TP10x_Probe","Small Probs footprint","3015.000","580.000","0","Test Point 300 mil centers","Standard","0.000","3015.000","580.000","2865.000","580.000","Fitted"
+"TP4","Qlow TP","TopLayer","TP10x_Probe","Small Probs footprint","2550.000","765.000","0","Test Point 300 mil centers","Standard","0.000","2550.000","765.000","2400.000","765.000","Fitted"
+"","5v enable","TopLayer","2Pin-Header-Conn","","3170.000","1150.000","180","2Pin Header","Standard","0.000","3220.000","1150.000","3220.000","1150.000","Fitted"
+"R8","","TopLayer","1206_Passive_Resitor","","2184.000","940.000","0","CHIP RESISTOR - SURFACE MOUNT 100MOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","2184.000","940.000","2125.000","940.000","Fitted"
+"R7","","TopLayer","1206_Passive_Resitor","","2189.000","1145.000","0","CHIP RESISTOR - SURFACE MOUNT 100MOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","2189.000","1145.000","2130.000","1145.000","Fitted"
+"R6","","TopLayer","1206_Passive_Resitor","","2189.000","1045.000","0","CHIP RESISTOR - SURFACE MOUNT 100MOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","2189.000","1045.000","2130.000","1045.000","Fitted"
+"R5","1k","TopLayer","1206_Passive_Resitor","","3235.000","984.000","270","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","3235.000","984.000","3235.000","1043.000","Fitted"
+"LED5","Red","TopLayer","LED_1206","","2410.000","935.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","2410.000","935.000","2469.000","935.000","Fitted"
+"LED4","Red","TopLayer","LED_1206","","2410.000","1035.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","2410.000","1035.000","2469.000","1035.000","Fitted"
+"LED3","Red","TopLayer","LED_1206","","2410.000","1140.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","2410.000","1140.000","2469.000","1140.000","Fitted"
+"C5","22uF","TopLayer","1206_Passive_Capacitor","","2985.000","1100.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","Standard","0.000","2985.000","1100.000","2985.000","1041.000","Fitted"
+"1","3.3v en","TopLayer","2Pin-Header-Conn","","3040.000","940.000","180","2Pin Header","Standard","0.000","3090.000","940.000","3090.000","940.000","Fitted"
+"TP10","QHigh TP","TopLayer","TP10x_Probe","Small Probs footprint","1350.000","400.000","0","Test Point 300 mil centers","Standard","0.000","1350.000","400.000","1200.000","400.000","Fitted"
+"U3","SN74AHC14DR","TopLayer","HEX_74AC14","","788.346","400.000","0","Inverter IC 6 Channel Schmitt Trigger 14-SOIC","Standard","0.000","788.346","400.000","676.693","550.000","Fitted"
+"2","5v enable","TopLayer","2Pin-Header-Conn","","900.000","750.000","270","2Pin Header","Standard","0.000","900.000","800.000","900.000","800.000","Fitted"
+"R11","","TopLayer","1206_Passive_Resitor","","200.000","400.000","0","CHIP RESISTOR - SURFACE MOUNT 100MOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","200.000","400.000","141.000","400.000","Fitted"
+"TP8","Qlow TP","TopLayer","TP10x_Probe","Small Probs footprint","1900.000","200.000","0","Test Point 300 mil centers","Standard","0.000","1900.000","200.000","1750.000","200.000","Fitted"
+"U1","LMC555CMX/NOPB","TopLayer","TS555IDTTR","IC OSC Single Timer 2.7MHz 8SOIC","2785.000","1750.000","0","555 Type, Timer/Oscillator _Single_ IC 3MHz 8-SO","Standard","104.331","2785.000","1750.000","2678.701","1825.000","Fitted"
+"TP11","R12 TP","TopLayer","TP10x_Probe","Small Probs footprint","1350.000","200.000","0","Test Point 300 mil centers","Standard","0.000","1350.000","200.000","1200.000","200.000","Fitted"
+"TP9","!555 TP","TopLayer","TP10x_Probe","Small Probs footprint","1850.000","400.000","0","Test Point 300 mil centers","Standard","0.000","1850.000","400.000","1700.000","400.000","Fitted"
+"TP3","3.3v tp","TopLayer","TP10x_Probe","Small Probs footprint","2025.000","1535.000","0","Test Point 300 mil centers","Standard","0.000","2025.000","1535.000","1875.000","1535.000","Fitted"
+"TP2","555_out_tp","TopLayer","TP10x_Probe","Small Probs footprint","3235.000","1515.000","0","Test Point 300 mil centers","Standard","0.000","3235.000","1515.000","3085.000","1515.000","Fitted"
+"TP1","5v TP","TopLayer","TP10x_Probe","Small Probs footprint","235.000","1475.000","0","Test Point 300 mil centers","Standard","0.000","235.000","1475.000","85.000","1475.000","Fitted"
+"SW5","555_off/on_switch","TopLayer","2Pin-Header-Conn","","2890.000","1480.000","90","2Pin Header","Standard","0.000","2890.000","1430.000","2890.000","1430.000","Fitted"
+"SW4","filter cap enable","TopLayer","2Pin-Header-Conn","","1670.000","1745.000","90","2Pin Header","Standard","0.000","1670.000","1695.000","1670.000","1695.000","Fitted"
+"SW3","3.3 powerline enable","TopLayer","2Pin-Header-Conn","","2310.000","1765.000","90","2Pin Header","Standard","0.000","2310.000","1715.000","2310.000","1715.000","Fitted"
+"SW2","5v power enable","TopLayer","2Pin-Header-Conn","","775.000","1765.000","90","2Pin Header","Standard","0.000","775.000","1715.000","775.000","1715.000","Fitted"
+"SW1","555_off/on_switch","TopLayer","2Pin-Header-Conn","","2740.000","1485.000","90","2Pin Header","Standard","0.000","2740.000","1435.000","2740.000","1435.000","Fitted"
+"R12","","TopLayer","1206_Passive_Resitor","","200.000","300.000","0","CHIP RESISTOR - SURFACE MOUNT 100MOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","200.000","300.000","141.000","300.000","Fitted"
+"R10","","TopLayer","1206_Passive_Resitor","","200.000","500.000","0","CHIP RESISTOR - SURFACE MOUNT 100MOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","200.000","500.000","141.000","500.000","Fitted"
+"R9","1k","TopLayer","1206_Passive_Resitor","","700.000","700.000","0","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","700.000","700.000","641.000","700.000","Fitted"
+"R4","1k","TopLayer","1206_Passive_Resitor","","1895.000","1755.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","1895.000","1755.000","1895.000","1696.000","Fitted"
+"R3","1k","TopLayer","1206_Passive_Resitor","","3245.000","1760.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","3245.000","1760.000","3245.000","1701.000","Fitted"
+"R2","1k","TopLayer","1206_Passive_Resitor","","3400.000","1764.000","90","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","3400.000","1764.000","3400.000","1705.000","Fitted"
+"R1","1k","TopLayer","1206_Passive_Resitor","","900.000","1400.000","180","CHIP RESISTOR - SURFACE MOUNT 1KOHMS ±1% 1/4W 1206 ROHS","Standard","0.000","900.000","1400.000","959.000","1400.000","Fitted"
+"P1","Power Jack","TopLayer","Power_Jack","","438.110","1713.465","180","Power Barrel Connector Jack 2.10mm ID (0.083"), 5.50mm OD (0.217") Through Hole, Right Angle","Standard","0.000","556.221","1805.000","556.221","1805.000","Fitted"
+"LED8","Red","TopLayer","LED_1206","","441.000","300.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","441.000","300.000","500.000","300.000","Fitted"
+"LED7","Red","TopLayer","LED_1206","","441.000","400.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","441.000","400.000","500.000","400.000","Fitted"
+"LED6","Red","TopLayer","LED_1206","","441.000","500.000","180","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","441.000","500.000","500.000","500.000","Fitted"
+"LED2","Red","TopLayer","LED_1206","","2100.000","1760.000","90","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","2100.000","1760.000","2100.000","1701.000","Fitted"
+"LED1","Red","TopLayer","LED_1206","","641.000","1400.000","0","Red 621~631nm 1206 Light Emitting Diodes (LED) RoHS","Standard","0.000","641.000","1400.000","582.000","1400.000","Fitted"
+"C6","22uF","TopLayer","1206_Passive_Capacitor","","1000.000","1041.000","270","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","Standard","0.000","1000.000","1041.000","1000.000","1100.000","Fitted"
+"C4","1uF","TopLayer","1206_Passive_Capacitor","","1485.000","1780.000","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS","Standard","0.000","1485.000","1780.000","1485.000","1721.000","Fitted"
+"C2","1uF","TopLayer","1206_Passive_Capacitor","","3095.000","1770.000","90","MULTILAYER CERAMIC CAPACITORS MLCC - SMD/SMT 1UF 50V 1206 ROHS","Standard","0.000","3095.000","1770.000","3095.000","1711.000","Fitted"
+"C1","22uF","TopLayer","1206_Passive_Capacitor","","975.000","1750.000","90","22uF ±10% 25V X5R 1206 Multilayer Ceramic Capacitors MLCC - SMD/SMT RoHS","Standard","0.000","975.000","1750.000","975.000","1691.000","Fitted"
+"3","3.3v en","TopLayer","2Pin-Header-Conn","","650.000","800.000","0","2Pin Header","Standard","0.000","600.000","800.000","600.000","800.000","Fitted"

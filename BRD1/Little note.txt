@@ -1,0 +1,4 @@
+The project file should be under the folder for brd1, 
+I got a little confused at the start of the semester as to 
+what board we were working on so thats why the folder is named 
+differently 

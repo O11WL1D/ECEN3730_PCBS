@@ -1,0 +1,59 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\dudkr\OneDrive\Desktop\pcb_designs\board 2\Board2\pcb2.PcbDoc
+Date     : 9/4/2024
+Time     : 1:54:17 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Via (470mil,210mil) from Top Layer to Bottom Layer And Pad C2-1(471.618mil,301mil) on Top Layer 
+Rule Violations :1
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=100mil) (Preferred=6mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Direct Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad P1-1(556.221mil,1800mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+   Violation between Hole Size Constraint: (118.11mil > 100mil) Pad P1-2(320mil,1800mil) on Multi-Layer Actual Slot Hole Width = 118.11mil
+Rule Violations :2
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (1.407mil < 10mil) Between Pad U1-1(873.701mil,895mil) on Top Layer And Via (960mil,870mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.407mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.407mil < 10mil) Between Pad U1-2(873.701mil,845mil) on Top Layer And Via (960mil,870mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [1.407mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.086mil < 10mil) Between Pad U1-5(1086.299mil,745mil) on Top Layer And Via (1000mil,780mil) from Top Layer to Bottom Layer [Top Solder] Mask Sliver [8.086mil]
+Rule Violations :3
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Via (470mil,210mil) from Top Layer to Bottom Layer 
+Rule Violations :1
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 10mil) Between Board Edge And Text "P1" (25mil,2010mil) on Top Overlay 
+Rule Violations :1
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 8
+Waived Violations : 0
+Time Elapsed        : 00:00:01
