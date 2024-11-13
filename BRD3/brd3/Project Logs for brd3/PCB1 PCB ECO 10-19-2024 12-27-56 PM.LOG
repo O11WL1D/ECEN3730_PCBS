@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Add Component: Footprint Not Found SOTFL50P160X60-5N
+Add Pin To Net: Unknown Pin: Pin D1-3
+Add Pin To Net: Unknown Pin: Pin D1-5
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC4_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=L1-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-18
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetD1_1 Pin=LED6-1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_4 Pin=LED5-1
+Added Pin To Net: NetName=NetD1_4 Pin=U2-3
+Added Net: Name=NetD1_4
+Added Member To Class: ClassName=Sheet1 Member=Component C3 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C9 47nF
+Add Class Member: Failed to add class member : Component D1 TPD3E001DRLR

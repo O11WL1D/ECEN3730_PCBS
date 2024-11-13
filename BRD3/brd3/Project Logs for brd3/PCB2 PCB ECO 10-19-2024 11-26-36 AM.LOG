@@ -1,0 +1,496 @@
+Added Component: Designator=C1(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/C1206C105M4RACTU/399-8150-1-ND/3471873/?itemSeq=304982366"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C1848"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31B105KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C4(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C5(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810221112_Samsung-Electro-Mechanics-CL31A106KBHNNNE_C13585.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13585"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A106KBHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C10(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1811031514_Samsung-Electro-Mechanics-CL31A226KAHNNNE_C12891.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C12891"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CL31A226KAHNNNE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Added Component: Designator=C11(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Added Component: Designator=C12(1206_Passive_Capacitor)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/1810241219_YAGEO-CC1206JKNPOCBN220_C107174.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C107174"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CC1206JKNPOCBN220"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22pF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found TVS
+Added Component: Designator=J1(8_PIN_ARD-PWR_100MIL)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J2(10_PIN_ARDUINO_100MIL)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC101LFBN-RC/S7008-ND/810149/?itemSeq=304982352"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C225507"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC101LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J3(8_PIN_ARD-DIG_100MIL)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J4(6_PIN_ARD-Analog_100mil)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC061LFBN-RC/S7004-ND/810145/?itemSeq=304982353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C40877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J5(USB_MINI_B)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/2103081233_Jing-Extension-of-the-Electronic-Co-920-462A2021D10102_C46398.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C46398"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "920-462A2021D10102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USB mini B"; VariantName = "[No Variations]"
+Added Component: Designator=J6(ICSP)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/NRPN032PAEN-RC/S5801-03-ND/804955/?itemSeq=304982355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NRPN032PAEN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Component: Designator=L1(AIML-1206_ABR-M)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/1810311314_FH--Guangdong-Fenghua-Advanced-Tech-CMI321609X100KT_C1051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC PART#"; Value = "C1051"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR PART #"; Value = "CMI321609X100KT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mfr_Name"; Value = "FH (Guangdong Fenghua Advanced Tech)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED_1206)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Added Component: Designator=P1(Power_Jack)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PJ-102A/CP-102A-ND/275425/?itemSeq=304982367"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C136744"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PJ-102A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CONN PWR JACK 2X5.5MM SOLDER"; VariantName = "[No Variations]"
+Added Component: Designator=PS1(LDO)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C6186"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "AMS1117-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IC REG LINEAR 3.3V 800MA SOT223"; VariantName = "[No Variations]"
+Added Component: Designator=R1(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R2(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R3(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R4(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206JT1M00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R5(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R6(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10KOhm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R8(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R9(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206JT1M00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1M Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(2Pin-Header-Conn)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124375"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Component: Designator=SW2(3_PIN_100mil)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PREC003SAAN-RC/S1012EC-03-ND/2774851/?itemSeq=304982371"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C49257"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PREC003SAAN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "CONN HEADER VERT 3POS 2.54MM"; VariantName = "[No Variations]"
+Added Component: Designator=SW3(Switch_JLC)
+Add component (AddParameter): Name = "DataSheet"; Value = "https://datasheet.lcsc.com/lcsc/2106081532_Shenzhen-Kinghelm-Elec-KH-4.5X4.5X4.3H-STM_C2837550.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C2837550"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "KH-4.5X4.5X4.3H-STM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Component: Designator=TP1(TP10x_Probe)
+Added Component: Designator=TP2(TP10x_Probe)
+Added Component: Designator=TP3(TP10x_Probe)
+Added Component: Designator=TP4(TP10x_Probe)
+Added Component: Designator=TP5(TP10x_Probe)
+Added Component: Designator=TP6(TP10x_Probe)
+Added Component: Designator=TP7(TP10x_Probe)
+Added Component: Designator=U1(ATMega328P)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/ATMEGA328P-ANR/ATMEGA328P-ANRCT-ND/2774230/?itemSeq=304982365"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C14877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "ATMEGA328P-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "IC MCU 8BIT 32KB FLASH 32TQFP"; VariantName = "[No Variations]"
+Added Component: Designator=U2(USB to serial)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/lcsc/2008191806_WCH-Jiangsu-Qin-Heng-CH340G_C14267.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C14267"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "CH340G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "USB to Serial"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal resonator)
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C13738"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "X322516MLB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "16MHz"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(Crystal resonator)
+Add component (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/Yangxing-Tech-X322512MSB4SI_C9002.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C9002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "X322512MSB4SI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "12MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=C1-2
+Added Pin To Net: NetName=+5 Pin=C10-1
+Added Pin To Net: NetName=+5 Pin=J1-5
+Added Pin To Net: NetName=+5 Pin=LED1-1
+Added Pin To Net: NetName=+5 Pin=P1-1
+Added Pin To Net: NetName=+5 Pin=PS1-3
+Added Pin To Net: NetName=+5 Pin=SW2-3
+Added Pin To Net: NetName=+5 Pin=TP1-1
+Added Pin To Net: NetName=+5 Pin=U2-16
+Added Net: Name=+5
+Added Pin To Net: NetName=3v Pin=C2-2
+Added Pin To Net: NetName=3v Pin=J1-4
+Added Pin To Net: NetName=3v Pin=PS1-2
+Added Pin To Net: NetName=3v Pin=PS1-4
+Added Pin To Net: NetName=3v Pin=R1-2
+Added Pin To Net: NetName=3v Pin=TP2-1
+Added Net: Name=3v
+Added Pin To Net: NetName=dtr Pin=C8-1
+Added Pin To Net: NetName=dtr Pin=U2-13
+Added Net: Name=dtr
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=J1-7
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=GND Pin=J5-5
+Added Pin To Net: NetName=GND Pin=J5-6
+Added Pin To Net: NetName=GND Pin=J5-7
+Added Pin To Net: NetName=GND Pin=J5-8
+Added Pin To Net: NetName=GND Pin=J5-9
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=PS1-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=R5-1
+Added Pin To Net: NetName=GND Pin=SW3-1
+Added Pin To Net: NetName=GND Pin=SW3-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP1-2
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP3-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP4-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP5-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP6-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=TP7-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-4
+Added Pin To Net: NetName=GND Pin=Y2-2
+Added Pin To Net: NetName=GND Pin=Y2-4
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=L1-2
+Added Pin To Net: NetName=NetC3_2 Pin=U1-18
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=J2-3
+Added Pin To Net: NetName=NetC4_2 Pin=U1-20
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC5_2 Pin=R4-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-7
+Added Pin To Net: NetName=NetC5_2 Pin=Y1-1
+Added Net: Name=NetC5_2
+Added Pin To Net: NetName=NetC7_2 Pin=C7-2
+Added Pin To Net: NetName=NetC7_2 Pin=R4-1
+Added Pin To Net: NetName=NetC7_2 Pin=TP4-1
+Added Pin To Net: NetName=NetC7_2 Pin=U1-8
+Added Pin To Net: NetName=NetC7_2 Pin=Y1-3
+Added Net: Name=NetC7_2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=R9-2
+Added Pin To Net: NetName=NetC11_2 Pin=U2-7
+Added Pin To Net: NetName=NetC11_2 Pin=Y2-1
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_2 Pin=C12-2
+Added Pin To Net: NetName=NetC12_2 Pin=R9-1
+Added Pin To Net: NetName=NetC12_2 Pin=U2-8
+Added Pin To Net: NetName=NetC12_2 Pin=Y2-3
+Added Net: Name=NetC12_2
+Added Pin To Net: NetName=NetD1_1 Pin=LED6-1
+Added Pin To Net: NetName=NetD1_1 Pin=U2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_6 Pin=LED5-1
+Added Pin To Net: NetName=NetD1_6 Pin=U2-3
+Added Net: Name=NetD1_6
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=J4-5
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-27
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J4-6
+Added Pin To Net: NetName=NetJ2_2 Pin=U1-28
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_5 Pin=J2-5
+Added Pin To Net: NetName=NetJ2_5 Pin=U1-12
+Added Net: Name=NetJ2_5
+Added Pin To Net: NetName=NetJ2_6 Pin=J2-6
+Added Pin To Net: NetName=NetJ2_6 Pin=U1-13
+Added Net: Name=NetJ2_6
+Added Pin To Net: NetName=NetJ2_7 Pin=J2-7
+Added Pin To Net: NetName=NetJ2_7 Pin=U1-14
+Added Net: Name=NetJ2_7
+Added Pin To Net: NetName=NetJ2_8 Pin=J2-8
+Added Pin To Net: NetName=NetJ2_8 Pin=J6-5
+Added Pin To Net: NetName=NetJ2_8 Pin=U1-15
+Added Net: Name=NetJ2_8
+Added Pin To Net: NetName=NetJ2_9 Pin=J2-9
+Added Pin To Net: NetName=NetJ2_9 Pin=J6-1
+Added Pin To Net: NetName=NetJ2_9 Pin=U1-16
+Added Net: Name=NetJ2_9
+Added Pin To Net: NetName=NetJ2_10 Pin=J2-10
+Added Pin To Net: NetName=NetJ2_10 Pin=J6-2
+Added Pin To Net: NetName=NetJ2_10 Pin=U1-17
+Added Net: Name=NetJ2_10
+Added Pin To Net: NetName=NetJ3_3 Pin=J3-3
+Added Pin To Net: NetName=NetJ3_3 Pin=U1-32
+Added Net: Name=NetJ3_3
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=U1-1
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_5 Pin=J3-5
+Added Pin To Net: NetName=NetJ3_5 Pin=U1-2
+Added Net: Name=NetJ3_5
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=U1-9
+Added Net: Name=NetJ3_6
+Added Pin To Net: NetName=NetJ3_7 Pin=J3-7
+Added Pin To Net: NetName=NetJ3_7 Pin=U1-10
+Added Net: Name=NetJ3_7
+Added Pin To Net: NetName=NetJ3_8 Pin=J3-8
+Added Pin To Net: NetName=NetJ3_8 Pin=U1-11
+Added Net: Name=NetJ3_8
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-23
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-24
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=U1-25
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=U1-26
+Added Net: Name=NetJ4_4
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U2-6
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ5_3 Pin=J5-3
+Added Pin To Net: NetName=NetJ5_3 Pin=U2-5
+Added Net: Name=NetJ5_3
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R2-2
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R1-1
+Added Net: Name=NetLED2_1
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R3-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R5-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R7-2
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R8-2
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=reset Pin=C8-2
+Added Pin To Net: NetName=reset Pin=C9-2
+Added Pin To Net: NetName=reset Pin=J1-3
+Added Pin To Net: NetName=reset Pin=J6-3
+Added Pin To Net: NetName=reset Pin=LED4-1
+Added Pin To Net: NetName=reset Pin=R6-2
+Added Pin To Net: NetName=reset Pin=SW3-3
+Added Pin To Net: NetName=reset Pin=SW3-4
+Added Pin To Net: NetName=reset Pin=TP5-1
+Added Pin To Net: NetName=reset Pin=U1-29
+Added Net: Name=reset
+Added Pin To Net: NetName=rg5vsw Pin=C6-2
+Added Pin To Net: NetName=rg5vsw Pin=J1-8
+Added Pin To Net: NetName=rg5vsw Pin=J6-4
+Added Pin To Net: NetName=rg5vsw Pin=L1-1
+Added Pin To Net: NetName=rg5vsw Pin=R6-1
+Added Pin To Net: NetName=rg5vsw Pin=SW1-1
+Added Pin To Net: NetName=rg5vsw Pin=U1-4
+Added Pin To Net: NetName=rg5vsw Pin=U1-6
+Added Net: Name=rg5vsw
+Added Pin To Net: NetName=rg5v Pin=LED3-1
+Added Pin To Net: NetName=rg5v Pin=SW1-2
+Added Pin To Net: NetName=rg5v Pin=SW2-2
+Added Pin To Net: NetName=rg5v Pin=TP3-1
+Added Net: Name=rg5v
+Added Pin To Net: NetName=rxled Pin=J3-1
+Added Pin To Net: NetName=rxled Pin=R8-1
+Added Pin To Net: NetName=rxled Pin=TP6-1
+Added Pin To Net: NetName=rxled Pin=U1-30
+Added Net: Name=rxled
+Added Pin To Net: NetName=txled Pin=J3-2
+Added Pin To Net: NetName=txled Pin=R7-1
+Added Pin To Net: NetName=txled Pin=TP7-1
+Added Pin To Net: NetName=txled Pin=U1-31
+Added Net: Name=txled
+Added Pin To Net: NetName=usb5v Pin=J5-1
+Added Pin To Net: NetName=usb5v Pin=SW2-1
+Added Net: Name=usb5v
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Width Constraint

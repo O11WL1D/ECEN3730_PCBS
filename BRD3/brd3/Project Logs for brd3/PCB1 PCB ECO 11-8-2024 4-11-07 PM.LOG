@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=+5 Pin=C10-1
+Removed Pin From Net: NetName=NetD1_4 Pin=LED5-1
+Removed Pin From Net: NetName=NetD1_1 Pin=LED6-1
+Removed Pin From Net: NetName=txled Pin=R7-1
+Removed Pin From Net: NetName=rxled Pin=R8-1
+Removed Pin From Net: NetName=NetD1_1 Pin=U2-2
+Removed Pin From Net: NetName=NetD1_4 Pin=U2-3
+Removed Pin From Net: NetName=+5 Pin=U2-16
+Change Component Comment : Designator=C8 Old Comment=1uF New Comment=22uf
+Change component parameters: Designator = "C8" ("C8"); Footprint = "1206_Passive_Capacitor"; UniqueID = "\TFVAWMAW" ("\TFVAWMAW")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/C1206C105M4RACTU/399-8150-1-ND/3471873/?itemSeq=304982366"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C1848"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "CL31B105KBHNNNE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "22uf"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R6" ("R6"); Footprint = "1206_Passive_Resitor"; UniqueID = "\XLGISJCH" ("\XLGISJCH")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF1206FT10K0/1759669"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C17902"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RMCF1206FT10K0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1k Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=D1(SOTFL50P160X60-5N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/tpd3e001.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPD3E001DRLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-TPD3E001DRLR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPD3E001DRLR?qs=t6sYTo5dwUz70OwW3s2cQw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R10(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206JT1M00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=R11(1206_Passive_Resitor)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RMCF1206JT1M00/RMCF1206JT1M00CT-ND/1942830/?itemSeq=304982358"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C17927"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "RMCF1206JT1M00"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k Ohm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rg5vsw Pin=C10-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-3
+Added Pin To Net: NetName=NetD1_4 Pin=D1-4
+Added Pin To Net: NetName=+5 Pin=D1-5
+Added Pin To Net: NetName=NetD1_4 Pin=J5-2
+Added Pin To Net: NetName=NetD1_1 Pin=J5-3
+Added Pin To Net: NetName=rg5vsw Pin=LED5-1
+Added Pin To Net: NetName=rg5vsw Pin=LED6-1
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=GND Pin=R8-1
+Added Pin To Net: NetName=rg5vsw Pin=R10-1
+Added Pin To Net: NetName=rxled Pin=R10-2
+Added Pin To Net: NetName=rg5vsw Pin=R11-1
+Added Pin To Net: NetName=txled Pin=R11-2
+Added Pin To Net: NetName=rxled Pin=U2-2
+Added Pin To Net: NetName=txled Pin=U2-3
+Added Pin To Net: NetName=NetD1_1 Pin=U2-5
+Added Pin To Net: NetName=NetD1_4 Pin=U2-6
+Added Pin To Net: NetName=rg5vsw Pin=U2-16
+Added Member To Class: ClassName=Sheet1 Member=Component D1 TPD3E001DRLR
+Added Member To Class: ClassName=Sheet1 Member=Component R10 1M
+Added Member To Class: ClassName=Sheet1 Member=Component R11 1M

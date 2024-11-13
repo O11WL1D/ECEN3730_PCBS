@@ -1,0 +1,48 @@
+Removed Pin From Net: NetName=NetLED5_2 Pin=R7-1
+Removed Pin From Net: NetName=txled Pin=R7-2
+Removed Pin From Net: NetName=NetLED6_2 Pin=R8-1
+Removed Pin From Net: NetName=rxled Pin=R8-2
+Change Component Comment : Designator=R7 Old Comment=47 Ohms New Comment=1k
+Change Component Comment : Designator=R8 Old Comment=47 Ohms New Comment=1k
+Change Component Comment : Designator=LED5 Old Comment=Green New Comment=Red
+Change Component Comment : Designator=LED6 Old Comment=Yellow New Comment=Red
+Change component parameters: Designator = "LED5" ("LED5"); Footprint = "LED_1206"; UniqueID = "\QPVDBBEL" ("\QPVDBBEL")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "LED6" ("LED6"); Footprint = "LED_1206"; UniqueID = "\XXOMZVPJ" ("\XXOMZVPJ")
+Change component parameters (AddParameter): Name = "Datasheet"; Value = "https://datasheet.lcsc.com/szlcsc/1811151241_Everlight-Elec-15-21-R6C-FQ1R1B-2T_C93133.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C93133"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "15-21/R6C-FQ1R1B/2T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R7" ("R7"); Footprint = "1206_Passive_Resitor"; UniqueID = "\TFFCQSNB" ("\TFFCQSNB")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R8" ("R8"); Footprint = "1206_Passive_Resitor"; UniqueID = "\EBXZFBCD" ("\EBXZFBCD")
+Change component parameters (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/RNCP1206FTD1K00/RNCP1206FTD1K00CT-ND/2240675/?itemSeq=304982373"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part#"; Value = "C4410"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR Part #"; Value = "RNCP1206FTD1K00CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Basic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1K Ohm"; VariantName = "[No Variations]"
+Added Component: Designator=J6(ICSP)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/NRPN032PAEN-RC/S5801-03-ND/804955/?itemSeq=304982355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C124384"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "NRPN032PAEN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_9 Pin=J6-1
+Added Pin To Net: NetName=NetJ2_10 Pin=J6-2
+Added Pin To Net: NetName=reset Pin=J6-3
+Added Pin To Net: NetName=rg5vsw Pin=J6-4
+Added Pin To Net: NetName=NetJ2_8 Pin=J6-5
+Added Pin To Net: NetName=GND Pin=J6-6
+Added Pin To Net: NetName=txled Pin=R7-1
+Added Pin To Net: NetName=NetLED5_2 Pin=R7-2
+Added Pin To Net: NetName=rxled Pin=R8-1
+Added Pin To Net: NetName=NetLED6_2 Pin=R8-2
+Added Member To Class: ClassName=Sheet1 Member=Component J6 NRPN032PAEN-RC
