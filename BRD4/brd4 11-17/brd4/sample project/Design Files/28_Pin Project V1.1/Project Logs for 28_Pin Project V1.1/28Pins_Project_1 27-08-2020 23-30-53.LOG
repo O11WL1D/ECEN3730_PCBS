@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=+5V_USB Pin=C1-1
+Added Pin To Net: NetName=IO0 Pin=U1-2
+Added Pin To Net: NetName=IO1 Pin=U1-3
+Added Pin To Net: NetName=MOSI Pin=U1-17
+Added Pin To Net: NetName=MISO Pin=U1-18
+Added Pin To Net: NetName=AD4/SDA Pin=U1-27
+Added Pin To Net: NetName=AD5/SCL Pin=U1-28

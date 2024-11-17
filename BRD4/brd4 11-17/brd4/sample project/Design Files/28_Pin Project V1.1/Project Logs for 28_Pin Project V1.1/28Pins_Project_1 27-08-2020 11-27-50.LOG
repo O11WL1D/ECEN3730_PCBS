@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5V/3V3_328P_VCC Pin=C20-2
+Added Pin To Net: NetName=16U2_16MHZ_XTAL1 Pin=U2-1
+Added Pin To Net: NetName=+5V/3V3_16U2 Pin=U2-4
+Added Pin To Net: NetName=16U2_RESETn Pin=U2-24
+Added Pin To Net: NetName=+3V3_16U2_UCAP Pin=U2-27
+Added Pin To Net: NetName=+5V Pin=U2-31
+Added Pin To Net: NetName=+5V/3V3_16U2 Pin=U2-32

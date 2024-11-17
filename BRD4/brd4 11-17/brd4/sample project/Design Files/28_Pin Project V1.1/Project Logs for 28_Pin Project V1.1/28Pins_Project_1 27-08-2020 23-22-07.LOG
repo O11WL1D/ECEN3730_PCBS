@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=+5V Pin=C2-1
+Change Net Color : Old Net Color=RGB(240, 207, 153) New Net Color=Default
+Change Net Color : Old Net Color=Blue New Net Color=Default
+Added Room: Name=[03] - 28PINS SHEMATIC

@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=328P_16MHZ_XTAL2 Pin=C25-2
+Added Pin To Net: NetName=328P_16MHZ_XTAL1 Pin=C27-2
+Added Room: Name=[03] - 28PINS SHEMATIC

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=MISO Pin=J6-5
+Removed Pin From Net: NetName=MISO Pin=JP3-3
+Added Pin To Net: NetName=16U2_HDR_RESETn Pin=J6-5
+Added Pin To Net: NetName=16U2_HDR_RESETn Pin=JP3-3
+Added Net: Name=16U2_HDR_RESETn
+Added Room: Name=[03] - 28PINS SHEMATIC

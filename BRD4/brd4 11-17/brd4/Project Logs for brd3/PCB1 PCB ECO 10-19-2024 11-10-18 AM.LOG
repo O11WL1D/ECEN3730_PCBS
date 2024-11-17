@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=reset Pin=J1-3
+Removed Pin From Net: NetName=3v Pin=J1-4
+Removed Pin From Net: NetName=+5 Pin=J1-5
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J1-7
+Removed Pin From Net: NetName=rg5vsw Pin=J1-8
+Removed Pin From Net: NetName=rxled Pin=J3-1
+Removed Pin From Net: NetName=txled Pin=J3-2
+Removed Pin From Net: NetName=NetJ2_1 Pin=J4-5
+Removed Pin From Net: NetName=NetJ2_2 Pin=J4-6
+Removed Member From Class: ClassName=Sheet1 Member=J1
+Removed Member From Class: ClassName=Sheet1 Member=J3
+Removed Member From Class: ClassName=Sheet1 Member=J4
+Added Component: Designator=J?(6_PIN_ARD-Analog_100mil)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC061LFBN-RC/S7004-ND/810145/?itemSeq=304982353"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C40877"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC061LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J?(8_PIN_ARD-PWR_100MIL)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Component: Designator=J?(8_PIN_ARD-DIG_100MIL)
+Add component (AddParameter): Name = "Digikey Link"; Value = "https://www.digikey.com/product-detail/en/PPTC081LFBN-RC/S7006-ND/810147/?itemSeq=304982354"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part#"; Value = "C27438"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR Part #"; Value = "PPTC081LFBN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Extended"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Female"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rxled Pin=J?-1
+Added Pin To Net: NetName=txled Pin=J?-2
+Added Pin To Net: NetName=reset Pin=J?-3
+Added Pin To Net: NetName=3v Pin=J?-4
+Added Pin To Net: NetName=+5 Pin=J?-5
+Added Pin To Net: NetName=NetJ2_1 Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=NetJ2_2 Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-7
+Added Pin To Net: NetName=rg5vsw Pin=J?-8
+Added Pin To Net: NetName=NetJ?_1 Pin=J?-1
+Added Pin To Net: NetName=NetJ?_1 Pin=U1-23
+Added Net: Name=NetJ?_1
+Added Pin To Net: NetName=NetJ?_2 Pin=J?-2
+Added Pin To Net: NetName=NetJ?_2 Pin=U1-24
+Added Net: Name=NetJ?_2
+Added Pin To Net: NetName=NetJ?_3 Pin=J?-3
+Added Pin To Net: NetName=NetJ?_3 Pin=U1-32
+Added Net: Name=NetJ?_3
+Add Net: Net with name "NetJ?_3" already exists
+Added Pin To Net: NetName=NetJ?_4 Pin=J?-4
+Added Pin To Net: NetName=NetJ?_4 Pin=U1-26
+Added Net: Name=NetJ?_4
+Add Net: Net with name "NetJ?_4" already exists
+Added Pin To Net: NetName=NetJ?_5 Pin=J?-5
+Added Pin To Net: NetName=NetJ?_5 Pin=U1-2
+Added Net: Name=NetJ?_5
+Added Pin To Net: NetName=NetJ?_6 Pin=J?-6
+Added Pin To Net: NetName=NetJ?_6 Pin=U1-9
+Added Net: Name=NetJ?_6
+Added Pin To Net: NetName=NetJ?_7 Pin=J?-7
+Added Pin To Net: NetName=NetJ?_7 Pin=U1-10
+Added Net: Name=NetJ?_7
+Added Pin To Net: NetName=NetJ?_8 Pin=J?-8
+Added Pin To Net: NetName=NetJ?_8 Pin=U1-11
+Added Net: Name=NetJ?_8
+Added Member To Class: ClassName=Sheet1 Member=Component J? PPTC061LFBN-RC
+Added Member To Class: ClassName=Sheet1 Member=Component J? PPTC081LFBN-RC
+Added Member To Class: ClassName=Sheet1 Member=Component J? PPTC081LFBN-RC
